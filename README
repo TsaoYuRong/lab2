@@ -1,0 +1,3 @@
+g++ -c main6.cpp
+g++ -c timer6.cpp
+g++ -o main6.o timer6.o
